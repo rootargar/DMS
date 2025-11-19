@@ -1,0 +1,24 @@
+# Repositorio base OpenDocMan (clonar separadamente)
+opendocman/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales
+*.tmp
+*.bak
+*.log
+
+# Dependencias de Composer (si se agregan)
+vendor/
+
+# Archivos de configuración sensibles
+config.php
+.env
